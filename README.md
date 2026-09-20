@@ -26,7 +26,7 @@ Plataforma web desarrollada en **React, TypeScript y Tailwind CSS** para la auto
 ---
 
 ## 🚀 Estructura del Código
-
+```text
 TurnoFlex-Autobox/
 ├── src/
 │   ├── lib/
