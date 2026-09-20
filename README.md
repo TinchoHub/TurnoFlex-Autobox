@@ -40,7 +40,7 @@ TurnoFlex-Autobox/
 │   │   └── Staff.tsx     # Tablero Kanban / control de bahías de trabajo
 │   ├── App.tsx           # Enrutador y control de vistas
 │   └── Layout.tsx        # Shell de navegación
-
+```
 ---
 
 ## 💻 Instalación y Ejecución Local
